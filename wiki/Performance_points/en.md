@@ -1,4 +1,7 @@
 <!-- Pennek also wrote a similar sub-article that may have small bits of extra info. If needed, find it here: https://github.com/ppy/osu-wiki/blob/be1fec96041971d2bace05eb216952a58b7cabbc/wiki/Performance_points/Performance_point_systems/en.md we should probably figure what to do with these two at some point-->
+---
+stub: true
+---
 
 # Performance points
 
@@ -36,7 +39,7 @@ The difficulty of the beatmap a player is playing on determines the end pp value
 
 Scores are then "weighted" against each other to ensure that only the best scores a user makes count the most towards their overall performance points ranking. Known as the [*weightage system*](#weightage-system), its goal is to prevent the rapid and repeated gaining of lower pp scores on easy beatmaps by reducing the amount of pp that is actually gained based on the player's other top scores.
 
-*Note: A small amount of bonus pp is awarded based on the number of Ranked maps you have set a score on.*
+*Note: A small amount of bonus pp is awarded based on the number of Ranked maps you have set a score on.
 
 ### Weightage system
 
