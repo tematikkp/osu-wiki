@@ -1,10 +1,15 @@
+---
+outdated_translation: true
+outdated_since: 6ad4fe3d4e5b620cfeb663af478a908a6220f9ba
+---
+
 # Schrift
 
 *Für die Formatierungsstandards, siehe: [Artikelgestaltungskriterien/Formatierung](../Formatting)*
 
 Dieser Artikel betrifft die Schriftstandards für Deutsch. Verweise auf die englische Version dieser Seite für die Schriftstandards für englische Artikel.
 
-Alle deutschen Artikel müssen Standarddeutsch verwenden.
+Alle deutschen Artikel müssen Bundesdeutsches Hochdeutsch verwenden.
 
 ## Inhaltsparität
 
